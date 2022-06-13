@@ -12,7 +12,7 @@ export default function SiteRoutes() {
             <Route path='/home'      element= {<Home />} />
             <Route path='/cadastro'  element= {<Cadastro />} />
             <Route path='/login'     element= {<Login />} />
-            <Route path="/pendentes" element= {<Pendentes />} />
+            <Route path='/pendentes' element= {<Pendentes />} />
         </Routes>
     </BrowserRouter>
 )

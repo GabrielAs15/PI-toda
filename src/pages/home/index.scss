@@ -1,350 +1,400 @@
 .home{
-    width: 1339.9px;
-        *
-        {
-            box-sizing: border-box;
-            margin: 0%;
-            padding: 0%;
-        }
-        main{
-            width: 1339.9px;
-        }
-        nav
-        {
-            background-color: #000;
-        }
-        body
-        {
-            background-color: #3F3F3F;
-        }
-        footer
-        {
-            background-color: #000;
-            box-sizing: border-box;
-            width: 100%;
-            bottom: 0%;
-        }
-        .png
-        {   
-            height:150px ;
-            width:200px ;
-        }
-
-        .kong
-        {
-        height:150px;
-        width: 200px;
-        margin-left: 36em;
-        }
-        .ecia
-        {
-            font-family: 'Barlow Condensed', sans-serif;
-            color:#EBC42A;
-            font-size: 4em;
-            margin-top: -0.1em;
-        }
-        .amelhor
-        {
-            margin-bottom: 15px;
-            font-family: 'Montserrat', sans-serif;
-            color:#EBC42A;
-            font-size: 1.8em;
-            margin-top: -13em;
-        }
-        .estrelas-2
-        {
-            height: 2em;
-            width: 8em;
-            margin-top:em;
-            margin-left: 38em;
-        }
-        .big-mãe
-        {
-            flood-opacity: 100%;
-            width: 100%;
-            background-color: #3F3F3F;
-        }
-        .titulo-1
-        {
-            text-align: center;
-            font-family: 'Barlow Condensed', sans-serif;
-            font-size: 40px;
-            color: #EBC42A;
-        }
-        .logo
-        {
-            margin-left:13em ;
-            height:600px ;
-            width:900px ;
-            margin-top:-120px;
-            margin-bottom: -130px;
-        }
-        .letra
-        {
-            color: #fff;
-            font-family: 'Montserrat', sans-serif;
-        }
-        .botão
-        {
-            font-size: 20px;
-            margin-top:-70px;
-            margin-left: 50em;
-            clear: both;
-            font-family: 'Montserrat', sans-serif;
-            display:inline-block;
-            padding:10px 25px;
-            vertical-align: middle;
-            overflow: hidden;
-            text-decoration:none;
-            color:inherit;
-            background-color:inherit;
-            text-align: center;
-            cursor: pointer;
-            white-space:nowrap;
-            background-color:#3F3F3F;
-            color:rgb(243, 243, 243);
-            border-radius: 25px;
-        }
-
-        .tres
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-
-        }
-
-        .seis
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-        .nove
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-        .doze
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-        .quinze
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-        .dezoito
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-        .vinteum
-        {
-            font-family: 'Montserrat', sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-        .vintequatro
-        {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-            font-family: 'Montserrat', sans-serif;
-        }
-
-        .vintesete
-        {
-            display: flex;
-            font-family: 'Montserrat', sans-serif;
-            flex-direction: row;
-            justify-content: space-evenly;
-            margin-bottom: 5em;
-        }
-
-
-        p
-        {
-            text-align: center;
-            margin-bottom: 6em;
-            font-size: 1.2em;
-            margin-top: 6em;
-            font-family: 'Montserrat', sans-serif;
-        }
-        h1{
-            
-            text-align: center;
-            font-family: 'Barlow Condensed', sans-serif;
-            font-size: 40px;
-            color: #EBC42A;
-        }
-
-        img
-        { border-radius: 15px;
-            width: 10em;
-            height: 10em;
-            align-items: center;
-        }
-
-        hr
-        {
-            margin-top: 15px;
-            margin-bottom: 15px;
-        }
-
-        .numero
-        {
-            color: #EBC42A;
-            font-size: 2em;
-            margin-top: 5px;
-            font-family: 'Barlow Condensed', sans-serif;
-        }
-
-        .titulo
-        {
-            font-family: 'Barlow Condensed', sans-serif;
-            color:#EBC42A;
-            border:1px solid #EBC42A ;
-            width: 800px;
-            margin-left: 5.6em;
-            font-size: 48px;
-        }
-
-        .img
-        {
-            margin-left:2em ;
-            margin-top:-10px ;
-            height:500px ;
-            width:1280px ;
-        }
-        .estrelas {
-            height: 2em;
-            width: 8em;
-        }
-        .t
-        {
-            margin: 10px;
-        }
-        .numeros
-        { 
-            margin-bottom: -50px;
-            margin-left: -60em;
-            font-family: 'Montserrat', sans-serif;
-            color: #fff;
-        }
-
-        .t1, .t3, h1
-        { 
-            color: #ebc42a;
-            font-family: 'Barlow Condensed', sans-serif;
-        }
-
-        h1{ 
-            text-align: center;
-            font-size: 2em;
-        }
-
-        .hambúrguer
-        {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            line-height: 0em;
-        }
-
-        .t1
-        { 
-            font-size: 4em;
-            margin: 0.5em;
-        }
-
-        .t2
-        { 
-            font-family: 'Montserrat', sans-serif;
-            font-size: 2em;
-            margin: 0.5em;
-            color: #ebc42a;
-        }
-
-        .baixo
-        { 
-            display: flex;
-            flex-direction: row;
-            justify-content: space-around;
-            margin-top: 2em;
-        }
-
-        .whatsapp
-        { 
-            margin-right: -10em;
-            width: 7em;
-            height: 5em;
-        }
-
-        .telegram
-        { 
-            width: 7em;
-            height: 5em;
-        }
-
-        .t3
-        { 
-
-            margin-top: 50px;
-            margin: 2px;
-            font-size: 2em;
-        }
-        .ifood
-        {
-            width: 7em;
-            height: 4em;
-            margin-left: 20px;
-        }
-
-        .uber
-        { 
-            margin-right: -10em;
-            width: 7em;
-            height: 4em;
-            margin-top: -4px;
-        }
-        .coco
-        {
-            font-size: 70px;
-            margin: 1em;
-            margin-bottom: 20px;
-        }
-        a:hover
-        {
-            border:  1px solid #EBC42A;
-            color :#EBC42A;
-            box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
-            text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
-        }
+    *{
+        box-sizing: border-box;
+        margin: 0%;
+        padding: 0%;
+    }
+    main{
+        background-color:#8B0000;
+    }
+    nav{
+        background-color: #000;
+    }
+    footer{
+        background-color: #000;
+        box-sizing: border-box;
+        width: 100%;
+        bottom: 0%;
+    }
+    
+    .letra-2{
+        font-size: 35px;
+        margin-left: 50px;
+         text-align: start;
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .botão-9{
+        margin-left: 7em;
+         font-size: 20px;
+        clear: both;
+        font-family: 'Montserrat', sans-serif;
+        display:inline-block;
+        padding:10px 25px;
+        vertical-align: middle;
+        overflow: hidden;
+        text-decoration:none;
+        color:inherit;
+        background-color:inherit;
+        text-align: center;
+        cursor: pointer;
+        white-space:nowrap;
+        background-color:#3F3F3F;
+        color:rgb(243, 243, 243);
+        border-radius: 25px;
+    }
+    .direcao{
+        margin-top: -10em;
+        display:flex;
+        align-items: center;
+        margin-bottom: -9em;
+    }
+    .seta{
+        box-sizing: content-box;
+        margin-left: 6em;
+        width: 150px;
+        height: 150px;
+    }
+    .png
+    {   
+        height:150px ;
+        width:200px ;
+    }
+    
+    .kong{
+    height:150px;
+    width: 200px;
+    margin-left: 36em;
+    }
+    .ecia{
+        font-family: 'Barlow Condensed', sans-serif;
+        color:#EBC42A;
+        font-size: 4em;
+        margin-top: -0.1em;
+    }
+    .amelhor{
+        margin-bottom: 15px;
+        font-family: 'Montserrat', sans-serif;
+        color:#EBC42A;
+        font-size: 1.8em;
+        margin-top: -13em;
+    }
+    .estrelas-2{
+        height: 2em;
+        width: 8em;
+        margin-top:em;
+        margin-left: 38em;
+    }
+    .big-mãe
+    {
+        flood-opacity: 100%;
+        width: 100%;
+        background-color: #8B0000;
+    }
+    .titulo-1{
+        text-align: center;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 60px;
+        color: #EBC42A;
+    }
+    .logo
+    {
+        margin-left:13em ;
+        height:600px ;
+        width:900px ;
+        margin-top:-120px;
+        margin-bottom: -130px;
+    }
+    .letra{
+        position: relative;
+        text-align: center;
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .botão
+    {
+        font-size: 20px;
+        margin-top:-70px;
+        margin-left: 50em;
+        clear: both;
+        font-family: 'Montserrat', sans-serif;
+        display:inline-block;
+        padding:10px 25px;
+        vertical-align: middle;
+        overflow: hidden;
+        text-decoration:none;
+        color:inherit;
+        background-color:inherit;
+        text-align: center;
+        cursor: pointer;
+        white-space:nowrap;
+        background-color:#3F3F3F;
+        color:rgb(243, 243, 243);
+        border-radius: 25px;
+    }
+    
+    .tres
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    
+    }
+    
+    .seis
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    .nove
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    .doze
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    .quinze
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    .dezoito
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    .vinteum
+    {
+        font-family: 'Montserrat', sans-serif;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    .vintequatro
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .vintesete
+    {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-bottom: 5em;
+    }
+    
+    
+    p{
+        text-align: center;
+        margin-bottom: 6em;
+        font-size: 1.2em;
+        margin-top: 6em;
+        font-family: 'Montserrat', sans-serif;
+    }
+    h1{
+        
+        text-align: center;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 40px;
+        color: #EBC42A;
+    }
+    
+    img
+    { border-radius: 15px;
+        width: 10em;
+        height: 10em;
+        align-items: center;
+    }
+    
+    hr
+    {
+        border-color: #000;
+        background-color: #000;
+        color: #000;
+        padding: 2px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .numero{
+        text-align: center;
+        color: #EBC42A;
+        font-size: 2em;
+        margin-top: 5px;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
+    
+    .titulo
+    {
+        font-family: 'Barlow Condensed', sans-serif;
+        color:#EBC42A;
+        border:1px solid #EBC42A ;
+        width: 800px;
+        margin-left: 5.6em;
+        font-size: 48px;
+    }
+    
+    .img{
+        margin-left:2em ;
+        margin-top:-10px ;
+        height:500px ;
+        width:1280px ;
+    }
+    .estrelas {
+        height: 2em;
+        width: 8em;
+    }
+    .t{
+        margin: 10px;
+    }
+    .numeros{ 
+        margin-bottom: -50px;
+        margin-left: -60em;
+        font-family: 'Montserrat', sans-serif;
+        color: #fff;
+    }
+    
+    .t1, .t3, h1{ 
+        color: #ebc42a;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
+    .sangue{
+        width: 1349px;
+        height: 45em;
+        margin-top: -100px;
+    }
+    .pracima{
+        margin-top: -25em;
+    }
+    h1{ 
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    .hambúrguer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        line-height: 0em;
+    }
+    
+    .t1{ 
+        font-size: 4em;
+        margin: 0.5em;
+    }
+    
+    .t2{ 
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2em;
+        margin: 0.5em;
+        color: #ebc42a;
+    }
+    
+    .baixo{ 
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 2em;
+    }
+    
+    .whatsapp{ 
+        margin-right: -10em;
+        width: 7em;
+        height: 5em;
+    }
+    
+    .telegram{ 
+        width: 7em;
+        height: 5em;
+    }
+    .botão-10{
+       display: block;
+    
+       font-family: 'Montserrat', sans-serif;
+       display:inline-block;
+       padding:10px 25px;
+       overflow: hidden;
+       color:inherit;
+       background-color:inherit;
+       cursor: pointer;
+       white-space:nowrap;
+       background-color:#3F3F3F;
+       color:rgb(243, 243, 243);
+       border-radius: 25px;
+    }
+    
+    .t3{ 
+        margin-top: 50px;
+        margin: 2px;
+        font-size: 2em;
+    }
+    .ifood{
+        width: 7em;
+        height: 4em;
+        margin-left: 20px;
+    }
+    
+    .uber{ 
+        margin-right: -10em;
+        width: 7em;
+        height: 4em;
+        margin-top: -4px;
+    }
+    .coco{
+        font-size: 70px;
+        margin: 1em;
+        margin-bottom: 20px;
+    }
+    a:hover{
+        border:  1px solid #EBC42A;
+        color :#EBC42A;
+        box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
+        text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
+    }
+    button:hover{
+        border:  1px solid #EBC42A;
+        color :#EBC42A;
+        box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
+        text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
+    }
+    
+    .borda:hover{
+        border:  3px solid #EBC42A;
+        color :#EBC42A;
+        box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
+        text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
+    }    
 }

@@ -1,0 +1,89 @@
+.colo{
+    *{
+        box-sizing: border-box;
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    body{
+        background-color: #000;  
+    }
+    p{
+        margin-top: 100px;
+        font-size: 16em;
+    }
+    .bora{
+        margin-top: -1em;
+    }
+    .kong{
+        height:270px;
+        width:450px;
+        margin-top: 8.3em;
+    }
+    .ecia{
+        font-family: 'Barlow Condensed', sans-serif;
+        color:#EBC42A;
+    
+    
+    }
+    .numero{
+        display: flex;
+        margin-left: 5em;
+    }
+    .sangue{
+        color: #FF1616;
+        font-family: 'Barlow Condensed', sans-serif;
+      
+    }
+    .amelhor{
+        font-family: 'Montserrat', sans-serif;
+        color:#EBC42A;
+        font-size: 7em;
+        margin-left: 55px;
+        margin-top: 2.2em;
+    }
+    .estrelas-2{
+        height: 2em;
+        width: 8em;
+    }
+    .botão{
+        margin-left: 24em;
+        font-family: 'Montserrat', sans-serif;
+        display:inline-block;
+        padding:10px 50px;
+        vertical-align: middle;
+        overflow: hidden;
+        text-decoration:none;
+        color:inherit;
+        background-color:inherit;
+        text-align: center;
+        cursor: pointer;
+        white-space:nowrap;
+        background-color:#3F3F3F;
+        color:rgb(243, 243, 243);
+        border-radius: 25px;
+        font-size: 25px;
+    }
+    .page{
+        margin-left: 3em;
+        margin-top: -10px;
+        font-family: 'Montserrat', sans-serif;
+        color:#EBC42A;
+        font-size: 4.5em;
+    }
+    h2{
+        font-family: 'Barlow Condensed', sans-serif;
+        color:#EBC42A;
+        font-size: 10em;  
+    }
+    
+    a:hover{
+        border:  1px solid #EBC42A;
+        color :#EBC42A;
+        box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
+        text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
+    }
+    input:hover{
+        border:  1px solid #EBC42A;
+    }
+}

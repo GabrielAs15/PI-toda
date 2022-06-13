@@ -37,8 +37,8 @@ export default function index() {
                 </div>
 
             <div className="mono">
-               <Link className="botão" href="">adicionar CADASTRO</Link>
-               <Link className="botão-1" href="">Voltar</Link>
+               <Link className="botão" to="">adicionar CADASTRO</Link>
+               <Link className="botão-1" to="">Voltar</Link>
             </div>
             <br/>
             <div>

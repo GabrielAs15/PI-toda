@@ -1,8 +1,16 @@
-.login{ 
-        width: 1339.9px;
-        background-color: #3F3F3F;
-        padding: max;
-    P { 
+.login {
+    
+    
+        *{
+            max-height: 0%;
+            margin-top: 1em;
+            margin-bottom: 2em;
+        }
+    
+        background-color:#3F3F3F ;
+    
+    
+    p { 
         font-size: 28px;
         text-align: left;
         text-indent: 60px;
@@ -10,12 +18,11 @@
         color: rgb(252, 252, 252);
     }
     h1 {
-        padding-left: 0px;
         text-align: center;
         font-family: 'Barlow Condensed', sans-serif;
-        font-size: 50px; 
+        font-size: 70px; 
         color:#EBC42A;
-        margin-bottom: 1em;
+        margin-bottom: 0.3em;
     }
     .Login{
         float: left;
@@ -23,8 +30,23 @@
         font-size: large;
         color:#EBC42A;
     }
+    .botão-2{
+        
+        display: flex;
+        flex-direction:row;
+        word-spacing: 1000em;
+    }
+    .lado-2{
+        margin-left: 1.6em;
+    }
+    .geito{
+        display: flex;
+    }
+    
+    .lado{
+        margin-left: 16.4em;
+    }
     .botão{
-        margin: 30px;
         font-family: 'Montserrat', sans-serif;
         display:inline-block;
         padding:10px 20px;
@@ -44,30 +66,25 @@
         transition:box-shadow 5.0s ;
     }
     .retangulo-1{
-        border-radius: 15px;
-        margin-left: 22em;
-        background-color:black;
-        width:660px;
-        height:450px;
+        margin: -0.3em 15em;
+        padding: 3em 0em;
+        align-items: center;
+        border-radius: 25px;
+        background-color:black; 
+        text-align: center;
     }
     .campo{
-        margin-left: 2em;
         font-family: 'Montserrat', sans-serif;
         background-color: #3F3F3F;
         color: black;
         border:1px solid #3F3F3F;
         border-radius:25px ;
         padding:15px 180px ;
-      
     }
     .titulo-1{
         font-size: 50px;
     }
-    .logo{
-        margin-left:-100px;
-        height:500px;
-        width: 760px;
-    }
+    
     a:hover{
         border:  1px solid #EBC42A;
         color :#EBC42A;
@@ -76,5 +93,5 @@
     }
     input:hover{
         border:  1px solid #EBC42A;
-    }    
-}
+    }
+    }
